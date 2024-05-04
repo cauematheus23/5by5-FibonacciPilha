@@ -33,10 +33,5 @@ namespace _5by5_FibonacciPilha
         {
             return this.number;
         }
-
-        public static implicit operator Integer(int v)
-        {
-            throw new NotImplementedException();
-        }
     }
 }
